@@ -1,0 +1,11 @@
+{
+  "name": "npm-systeminfo-bk",
+  "version": "1.0.0",
+  "description": "find system config",
+  "main": "systeminfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bharathikannan",
+  "license": "ISC"
+}
