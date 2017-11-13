@@ -1,11 +1,21 @@
 {
   "name": "npm-systeminfo-bk",
   "version": "1.0.0",
-  "description": "find system config",
+  "author": "Bharathikannan",
+  "homepage": "https://github.com/bharathikannano/npm-systeminfo-bk.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharathikannano/npm-systeminfo-bk.git"
+  },
+  "description": "Find System Config",
   "main": "systeminfo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bharathikannan",
-  "license": "ISC"
+  "dependencies": {
+    "es6": "^0.0.7",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.5",
+    "mocha": "^4.0.1"
+  }
 }
