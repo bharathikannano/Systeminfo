@@ -1,4 +1,5 @@
-"# npm-systeminfo-bk" ```shell Version 1.0.0```
+# npm-systeminfo-bk
+```shell Version 1.0.0```
 
 
 ## Installation
