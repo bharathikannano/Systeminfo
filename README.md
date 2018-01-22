@@ -14,7 +14,7 @@ npm install Systeminfo-bk
 Get your System Informations
 
 
-### License
+### License [![npm](https://img.shields.io/npm/l/express.svg?style=social)][license-url]
 
 This software is licensed under the [`MIT`][license-url] License.
 
