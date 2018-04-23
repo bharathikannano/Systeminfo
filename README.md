@@ -1,13 +1,11 @@
-# Systeminfo-bk
+# systeminfo-bk
 ```shell Version 1.0.0```
 
 
 ## Installation
 
 ###  npm
-```shell
-npm install Systeminfo-bk
-```
+```shell npm install systeminfo-bk ```
 
 
 ## Usage
