@@ -1,4 +1,4 @@
-# npm-systeminfo-bk
+# systeminfo-bk
 ```shell Version 1.0.0```
 
 
@@ -6,7 +6,7 @@
 
 ###  npm
 ```shell
-npm install npm-systeminfo-bk
+npm install systeminfo-bk
 ```
 
 
