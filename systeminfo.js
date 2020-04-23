@@ -17,13 +17,15 @@ var bk = {
 
         return addresses;
     },
-    hostname: () => {
-        return os.hostname();
+    hostname: () => os.hostname(),
 
-    },
-    homedir: () => {
-        return os.homedir();
-    }
+    homedir: () => os.homedir(),
+
+    networkStatus: () => navigator.onLine,
+    
+    currentURL: () => window.location.href,
+
+    reloadURL: () => window.location.reload(),
 }
 console.log(bk.myLocalIp());
 console.log(bk.hostname());
